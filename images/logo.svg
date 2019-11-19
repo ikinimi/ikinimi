@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="1425px" height="328px" viewBox="0 0 1425 328" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 42 (36781) - http://www.bohemiancoding.com/sketch -->
+    <title>Shape + MUSIC + Rectangle 59 + FREE</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <path d="M385.537163,160 L345.654008,160 L345.654008,80 C345.654008,57.9066667 327.799649,40 305.770854,40 C283.742058,40 265.887699,57.9066667 265.887699,80 L265.887699,226.666667 C265.887699,234.04 259.945109,240 252.593314,240 C245.241519,240 239.298929,234.04 239.298929,226.666667 L239.298929,40 C239.298929,17.9066667 221.44457,0 199.415774,0 C177.386978,0 159.532619,17.9066667 159.532619,40 L159.532619,280 C159.532619,287.373333 153.590029,293.333333 146.238234,293.333333 C138.886439,293.333333 132.943849,287.373333 132.943849,280 L132.943849,120 C132.943849,97.9066667 115.08949,80 93.0606946,80 C71.0318987,80 53.1775398,97.9066667 53.1775398,120 L53.1775398,160 L13.2943849,160 C5.94259007,160 0,165.96 0,173.333333 C0,180.706667 5.94259007,186.666667 13.2943849,186.666667 L66.4719247,186.666667 C73.8237196,186.666667 79.7663096,180.706667 79.7663096,173.333333 L79.7663096,120 C79.7663096,112.626667 85.7088997,106.666667 93.0606946,106.666667 C100.412489,106.666667 106.35508,112.626667 106.35508,120 L106.35508,280 C106.35508,302.093333 124.209438,320 146.238234,320 C168.26703,320 186.121389,302.093333 186.121389,280 L186.121389,40 C186.121389,32.6266667 192.063979,26.6666667 199.415774,26.6666667 C206.767569,26.6666667 212.710159,32.6266667 212.710159,40 L212.710159,226.666667 C212.710159,248.76 230.564518,266.666667 252.593314,266.666667 C274.62211,266.666667 292.476469,248.76 292.476469,226.666667 L292.476469,80 C292.476469,72.6266667 298.419059,66.6666667 305.770854,66.6666667 C313.122648,66.6666667 319.065239,72.6266667 319.065239,80 L319.065239,173.333333 C319.065239,180.706667 325.007829,186.666667 332.359623,186.666667 L385.537163,186.666667 C392.888958,186.666667 398.831548,180.706667 398.831548,173.333333 C398.831548,165.96 392.888958,160 385.537163,160 L385.537163,160 Z" id="path-1"></path>
+        <filter x="-50%" y="-50%" width="200%" height="200%" filterUnits="objectBoundingBox" id="filter-2">
+            <feOffset dx="0" dy="2" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="2" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.5 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Icon" transform="translate(-312.000000, -219.000000)">
+            <g id="Shape-+-MUSIC-+-Rectangle-59-+-FREE" transform="translate(-2.000000, 0.000000)">
+                <g transform="translate(318.000000, 221.000000)">
+                    <g id="Shape">
+                        <use fill="black" fill-opacity="1" filter="url(#filter-2)" xlink:href="#path-1"></use>
+                        <use fill="#FFFFFF" fill-rule="evenodd" xlink:href="#path-1"></use>
+                    </g>
+                    <g id="MUSIC-+-Rectangle-59-+-FREE" transform="translate(499.000000, 20.000000)">
+                        <text id="MUSIC" font-family="STHeitiSC-Light, Heiti SC" font-size="180" font-weight="300" fill="#FFFFFF">
+                            <tspan x="371.916261" y="210">MUSIC</tspan>
+                        </text>
+                        <g id="Rectangle-59-+-FREE" transform="translate(1.000000, 0.000000)">
+                            <rect id="Rectangle-59" fill="#E62117" x="1" y="38" width="356.954236" height="212" rx="30"></rect>
+                            <text id="hi" font-family="HannotateSC-W5, Hannotate SC" font-size="200" font-weight="normal" fill="#FFFFFF">
+                                <tspan x="101.704966" y="212">hi</tspan>
+                            </text>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
